@@ -8,7 +8,7 @@ A skateboard made in Onshape. It has a tan-colored board and black wheels with r
 
 ### Evidence
 ![Screenshot 2021-10-25 202216](https://user-images.githubusercontent.com/71349940/138788379-f4c95cc2-aea4-49d5-9136-8b40d66d13d8.png)
-![Screenshot 2021-10-25 202216](https://user-images.githubusercontent.com/71349940/138788441-e47c4e96-4bf0-4e4e-9e26-e2e587db7e47.png)
+![Screenshot 2021-10-25 202241](https://user-images.githubusercontent.com/71349940/138788664-403b1b13-08dd-45af-9f6b-09ec10bde7f7.png)
 
 ### Link
 https://cvilleschools.onshape.com/documents/09c8d1a23f3e08d3f1e67d2b/w/76106eedb88b14f2d5def19a/e/ae243aa344cfe572125eec28
