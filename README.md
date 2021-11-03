@@ -1,3 +1,9 @@
+### Table of Contents
+
+* [Skateboard Deck](#Skateboard-Deck)
+* [Truck Baseplate](#Truck-Baseplate)
+* [Truck Hanger](#Truck-Hanger)
+
 # WhyAmIMakingThisStuffOnshapeCAD.com
 This will document my work done on Onshape CAD assignments.com
 
