@@ -10,6 +10,7 @@ https://cvilleschools.onshape.com/documents/09c8d1a23f3e08d3f1e67d2b/w/76106eedb
 * [Skateboard Deck](#Skateboard-Deck)
 * [Truck Baseplate](#Truck-Baseplate)
 * [Truck Hanger](#Truck-Hanger)
+* [Wheel and Bearing](#Wheel-and-Bearing)
 
 
 ### Skateboard Deck
@@ -51,3 +52,16 @@ A cylinder that has two extended smaller cylinders poking out of the ends of it.
 
 #### Reflection
 This was another simple part with the only slightly difficult thing being making the fillets on the weird cuff part.
+
+### Wheel and Bearing
+
+#### Description
+I think we all know what wheels do, but not everyone know what a bearing is/does. A bearing consists of 3 parts (not modeled in onshape): The outer layer, the metal balls, and the inner layer. The inner layer and the outer layer can spin independently of eachother thanks to the metal balls between them. Now that you know how that works, I can explain how it works in correlation to the wheel and the skateboard unsing images.
+
+#### Evidence
+
+##### This is an image of the wheel and bearing alone. As you can see, the entire bearing is fit into the side of the wheel (another bearing is also on the other side). The wheel is the black cylinder and the bearing is the red one inside.
+![image](https://user-images.githubusercontent.com/71349940/140180047-fc7c717a-8e77-4f0e-a2d1-36f6bfe7c564.png)
+
+##### This is an image of the inside of the wheel connected to the truck hanger. The inside layer of the bearing stays still while the balls between the two bearing layers allow the outer layer to spin with the wheel. Get it?
+![image](https://user-images.githubusercontent.com/71349940/140180140-bf1136a2-73a9-47f6-b199-2bdfa5a85cd6.png)
