@@ -65,3 +65,16 @@ I think we all know what wheels do, but not everyone know what a bearing is/does
 
 ##### This is an image of the inside of the wheel connected to the truck hanger. The inside layer of the bearing stays still while the balls between the two bearing layers allow the outer layer to spin with the wheel. Get it?
 ![image](https://user-images.githubusercontent.com/71349940/140180140-bf1136a2-73a9-47f6-b199-2bdfa5a85cd6.png)
+
+#### Reflection
+The revolve tool is so useful. Instead of having to extrude two different parts to get the outside and the inside of the wheel, I could just make two triangles that are next to eachother and then revolve them around a point and get a nice perfect circle with another section on the inside. It just simply removes steps overall, very useful.
+
+### Full Assembly
+
+#### Definition
+This is the full assembly of all of the parts mentioned in this document. (Surprising, right?) There is one part that wasn't mentioned in this document and thats because its extremely simple. The bushing is just a cylinder that was filleted on the edges to make it perfectly round. All it does is separate the truck baseplate and the truck hanger. I just didn't think it needed its own section.
+
+#### Evidence
+
+This is an overall image of the assembly. It shows the deck along with the truck parts and wheels. As you can see, there are bolts in place where they are a supposed to be. Those are already part of onshape and I didn't have to make them myself.
+![image](https://user-images.githubusercontent.com/71349940/140183001-8bbe3926-42da-4c33-84f5-0d0c74908cd3.png)
