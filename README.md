@@ -72,9 +72,15 @@ The revolve tool is so useful. Instead of having to extrude two different parts 
 ### Full Assembly
 
 #### Definition
-This is the full assembly of all of the parts mentioned in this document. (Surprising, right?) There is one part that wasn't mentioned in this document and thats because its extremely simple. The bushing is just a cylinder that was filleted on the edges to make it perfectly round. All it does is separate the truck baseplate and the truck hanger. I just didn't think it needed its own section.
+This is the full assembly of all of the parts mentioned in this document. (Surprising, right?) There is one part that wasn't mentioned in this document and thats because its extremely simple. The bushing is just a cylinder that was filleted on one of the edges to make it half round and half straight. All it does is separate the truck baseplate and the truck hanger. I just didn't think it needed its own section.
 
 #### Evidence
 
-This is an overall image of the assembly. It shows the deck along with the truck parts and wheels. As you can see, there are bolts in place where they are a supposed to be. Those are already part of onshape and I didn't have to make them myself.
+##### This is an overall image of the assembly. It shows the deck along with the truck parts and wheels. As you can see, there are bolts in place where they are a supposed to be. Those are already part of onshape and I didn't have to make them myself.
 ![image](https://user-images.githubusercontent.com/71349940/140183001-8bbe3926-42da-4c33-84f5-0d0c74908cd3.png)
+
+##### This is a close up of the truck parts, the wheels, the deck, and the bolts connecting them all. This shows how the busing looks (the donut-ish looking thing between the thing sticking out of the truck hanger and the truck baseplate). It also shows the outside of the wheel. There is a bolt connecting the wheel to the truck hanger.
+![image](https://user-images.githubusercontent.com/71349940/140238782-a48ef0a4-39aa-4801-b7d5-f7fdc6105e00.png)
+
+#### Reflection
+This overall assembly was pretty simple considering I had made a lot of the parts in the same documents (take notes future self). Doing that helped me confirm that the parts would fit together and all I had to do in the assembly was insert the parts and add the bolts and nuts. Mating in Onshape is way easier than it is in Solidworks. All I had to do was select a mate, select a part, and connect it to a mate connector. Only takes a few steps and is really simple.
