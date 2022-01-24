@@ -4,7 +4,7 @@
 This will document my work done on Onshape CAD assignments.com
 
 ## Link to Document
-https://cvilleschools.onshape.com/documents/09c8d1a23f3e08d3f1e67d2b/w/76106eedb88b14f2d5def19a/e/376f0ea80296749831a95853
+[Onshape Skateboard Document](https://cvilleschools.onshape.com/documents/09c8d1a23f3e08d3f1e67d2b/w/76106eedb88b14f2d5def19a/e/376f0ea80296749831a95853)
 
 ### Table of Contents
 
